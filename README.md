@@ -1,5 +1,6 @@
 # Parcial_1_Sistemas_Operativos
 # Huffman Compressor
+## Cristóbal Gutiérrez Castro, Jose Manuel Barrientos Palacios, Santiago Villamizar Agudelo
 
 ## Descripción
 Este programa implementa un compresor de archivos basado en la codificación de Huffman, una técnica de compresión sin pérdida que reduce el tamaño de los archivos de texto.
